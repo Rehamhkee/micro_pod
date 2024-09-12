@@ -18,7 +18,7 @@ Join Discussions: Participate in community forums to discuss and share theories.
 Stay Updated: Check the latest updates for news on recent developments and articles.
 
 Demo
-Check out our live site here: https://rehamhkee.github.io/micro_pod/ to see micro_pod in action. Alternatively, view our demo video for a walkthrough of the site’s features.
+Check out our live site here: <a href="https://rehamhkee.github.io/micro_pod/">here</a> to see micro_pod in action. Alternatively, view our demo video for a walkthrough of the site’s features.
 
 Contributing
 We welcome contributions to micro_pod! To contribute:
