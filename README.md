@@ -5,6 +5,14 @@ and a community space for true crime enthusiasts to engage and discuss.
 <img src="micro_pod.png">
 <img src="micro_pod2.png">
 
+<b>Table of Contents</b>
+Features<br>
+About<br>
+Usage<br>
+Demo<br>
+Contributing<br>
+Contact<br>
+
 <b>Features</b>
 Case Profiles: In-depth profiles of criminal cases, including timelines, evidence, and key figures. <br>
 Search Functionality: Easily search through cases, suspects, and locations. <br>
