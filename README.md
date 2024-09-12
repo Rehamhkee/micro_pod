@@ -1,4 +1,4 @@
-micro_pod
+<b>micro_pod</b>
 Welcome to micro_pod, a true crime website dedicated to exploring and documenting intriguing criminal cases. Our platform provides detailed case studies, investigative insights, 
 and a community space for true crime enthusiasts to engage and discuss.
 
