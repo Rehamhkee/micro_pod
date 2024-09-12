@@ -2,7 +2,8 @@ micro_pod
 Welcome to micro_pod, a true crime website dedicated to exploring and documenting intriguing criminal cases. Our platform provides detailed case studies, investigative insights, 
 and a community space for true crime enthusiasts to engage and discuss.
 
-
+<img src="micro_pod.png">
+<img src="micro_pod2.png">
 
 Features
 Case Profiles: In-depth profiles of criminal cases, including timelines, evidence, and key figures.
