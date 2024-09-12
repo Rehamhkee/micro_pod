@@ -29,6 +29,7 @@ Reham Hakeem - The sole developer behind micro_pod. <br>
 <a href="https://www.linkedin.com/in/reham-hakeem/">linkedin</a> <br>
 <a href="https://github.com/Rehamhkee">GitHub</a> <br>
 <a href="https://x.com/Rehammeh?t=-C5KAmgz-nmxBm9jV3AWEw&s=09">Twitter/X</a> <br>
+<a href="https://github.com/Rehamhkee/micro_pod/tree/main">GitHub Repo</a>
 <b>Usage</b> <br>
 Browse Cases: Navigate through our case profiles and explore detailed information. <br>
 Search: Use the search bar to find specific cases or topics. <br>
